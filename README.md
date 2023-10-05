@@ -1,4 +1,7 @@
-# API Project (Please see presentation "API Project" as pdf)
+<img width="1108" alt="image" src="https://github.com/Lidde9/API-Project/assets/127693321/e5ee1388-4ec0-4f0b-bf31-3f808f2b4858">
+
+
+<img width="1108" alt="image" src="https://github.com/Lidde9/API-Project/assets/127693321/91dd589b-e7cd-468b-a898-75daa766a6eb"># API Project (Please see presentation "API Project" as pdf)
 
 Analyzing Spotify Music using Spotify and OpenAI APIs (Python, Visualizations, Exploratory Analysis)
 
