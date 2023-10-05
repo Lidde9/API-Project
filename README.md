@@ -1,5 +1,6 @@
 # API Project (Please see presentation "API Project" as pdf)
-Analyzing Spotify Music using Spotify and OpenAI APIs
+
+Analyzing Spotify Music using Spotify and OpenAI APIs (Python, Visualizations, Exploratory Analysis)
 
 Project Description:
 
