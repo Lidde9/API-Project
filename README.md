@@ -1,4 +1,4 @@
-# API Project
+# API Project (PLEASE SEE PRESENTATION IN PDF)
 Analyzing Spotify Music using Spotify and OpenAI APIs
 
 Project Description:
